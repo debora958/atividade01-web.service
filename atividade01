@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<soap:Envelope
+xmlns:soap=""
+soap:encodingStyle="">
+
+<soap:Header>
+...
+</soap:Header>
+
+<soap:Body>
+...
+  <soap:Fault>
+  ...
+  </soap:Fault>
+</soap:Body>
+
+</soap:Envelope>
